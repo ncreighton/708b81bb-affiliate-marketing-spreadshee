@@ -1,2 +1,25 @@
-# 708b81bb-affiliate-marketing-spreadshee
-Stop starting from a blank document every single time. Start professional results from day one.  Professional formatting tested across different screen sizes and printers. Ready to use immediately — open, fill in your details, done.  ## What's Included  - Affiliate Marketing Spreadsheet Calculator — fully configured and ready to use - Fully editabl
+# Affiliate Marketing Spreadsheet Calculator Bundle
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/eVq6oH5iTaQAe009rKcZJ1q)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/eVq6oH5iTaQAe009rKcZJ1q)
+
